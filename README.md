@@ -71,3 +71,9 @@ push / pull
 ```
 
 코드 입력 끝!
+
+<https://doit-fwd.tistory.com/>
+
+[하루하루 스터디 노트](https://doit-fwd.tistory.com/)
+
+[하루하루 스터디 노트](https://doit-fwd.tistory.com/, "프런트엔드 개발 팀")
